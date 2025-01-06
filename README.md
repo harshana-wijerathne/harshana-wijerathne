@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm your_name 👋
 
-<!--
-**harshana-wijerathne/harshana-wijerathne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://komarev.com/ghpvc/?username=your_username&color=blue&label=Profile%20Views)](https://github.com/your_username)
+[![](https://img.shields.io/github/followers/your_username?label=Followers&style=social)](https://github.com/your_username)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Computer Science student passionate about web development and cybersecurity
+- 💻 Full-stack developer with expertise in modern web technologies
+- 🌱 Currently exploring Cloud Architecture and DevOps practices
+- 🔐 Enthusiast in Cybersecurity and Ethical Hacking
+- 🤝 Open to collaborating on innovative web projects and security tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+```text
+Frontend     →  HTML, CSS, JavaScript, React, Vue.js
+Backend      →  Node.js, Python, PHP, Java
+Database     →  MongoDB, MySQL, PostgreSQL
+DevOps       →  Docker, Kubernetes, AWS
+Security     →  Penetration Testing, Network Security
+Tools        →  Git, VS Code, Linux
+```
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=radical" alt="Streak Stats" />
+</div>
+
+## 🏆 Achievements
+- 🌟 Top Contributor in [Project/Organization]
+- 🎯 Successfully completed [X] projects
+- 🏅 [Any certifications or awards]
+- 👥 Active member of [relevant communities]
+
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your_linkedin_url)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your_twitter_url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](your_portfolio_url)
+
+## 📬 Get in Touch
+- Email: your.email@domain.com
+- Discord: your_discord_username
+- Website: [your_website](your_website_url)
+
+---
+⭐️ From [your_username](https://github.com/your_username)
