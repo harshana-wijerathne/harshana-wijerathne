@@ -1,7 +1,7 @@
 # Hi, I'm Harshana Wijerathne 👋
 
-[![](https://komarev.com/ghpvc/?username=your_username&color=blue&label=Profile%20Views)](https://github.com/your_username)
-[![](https://img.shields.io/github/followers/your_username?label=Followers&style=social)](https://github.com/your_username)
+[![](https://komarev.com/ghpvc/?username=Harshana-wijerathne&color=blue&label=Profile%20Views)](https://github.com/Harshana-wijerathne)
+[![](https://img.shields.io/github/followers/Harshana-wijerathne?label=Followers&style=social)](https://github.com/Harshana-wijerathne)
 
 ## 🚀 About Me
 - 🎓 Software Engineer passionate about web development and cybersecurity
