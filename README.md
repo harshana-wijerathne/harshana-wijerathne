@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer specializing in **Software Development**, **Web Development**, and **Machine Learning**. I am always eager to learn new technologies and contribute to exciting projects. I believe in solving real-world problems through code.
 
-![Profile Image]("https://avatars.githubusercontent.com/u/170891358?v=4") <!-- You can replace this with your own profile picture -->
-
 ## 🚀 About Me
 
 - 🎓 **Bachelor of Science (Honours) in  Engineering** from the University of Moratuwa.
