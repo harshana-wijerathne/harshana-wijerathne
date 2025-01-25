@@ -2,14 +2,14 @@
 
 Welcome to my GitHub profile! I'm a passionate developer specializing in **Software Development**, **Web Development**, and **Machine Learning**. I am always eager to learn new technologies and contribute to exciting projects. I believe in solving real-world problems through code.
 
-![Profile Image](https://via.placeholder.com/150) <!-- You can replace this with your own profile picture -->
+![Profile Image]([https://via.placeholder.com/150](https://avatars.githubusercontent.com/u/170891358?v=4)) <!-- You can replace this with your own profile picture -->
 
 ## 🚀 About Me
 
-- 🎓 **Bachelor of Science (Honours) in Material Science and Engineering** from the University of Moratuwa.
+- 🎓 **Bachelor of Science (Honours) in  Engineering** from the University of Moratuwa.
 - 💻 **Languages & Technologies**: Java, JavaFX, React, Python, Flask, Tailwind CSS, Flutter, Machine Learning, MySQL, MongoDB, Node.js, and more.
-- 📚 Currently learning **React** and **LaTeX**.
-- 💼 I have experience as a **Material Engineer** at GPV Lanka Pvt Limited.
+- 📚 Currently learning **React** and **Java**.
+- 💼 I have experience as a **Software Engineering Intership** at IJSE
 - 📱 Owner of **HANA Mobiles** on Facebook, where I sell phone accessories in Sri Lanka.
 
 ## 🔧 Technologies & Tools
@@ -41,11 +41,15 @@ Here are some of my recent projects:
 - **Description**: A client-server application with video calls, text messaging, file uploads/downloads, and desktop sharing (including mouse and keyboard control) developed in JavaFX.
 - **Technologies**: JavaFX, Maven, Client-Server Architecture.
 
-### 3. [**Simple Web Browser**](#)
+### 3. [**Athena Web Browser**](#)
 - **Description**: A learning project to understand the behavior of web browsers. This web browser mimics the behavior of a real browser.
 - **Technologies**: JavaFX, HTML, CSS, JavaScript.
 
-### 4. [**MERN Stack Chat Application**](#)
+### 4. [**Athena Web Server**](#)
+- **Description**: A learning project to understand the behavior of web Server. This web Server mimics the behavior of a real web server.
+- **Technologies**: JavaFX, HTML, CSS, JavaScript.
+
+### 5. [**MERN Stack Chat Application**](#)
 - **Description**: A real-time chat application with features such as messaging, notifications, and more.
 - **Technologies**: MongoDB, Express.js, React, Node.js (MERN Stack).
 
