@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in **Softw
 
 Here are some of my recent projects:
 
-### 1. [**Machine Learning-based Pb replacements for Perovskite Solar Cells**](#)
+### 1. [**Machine Learning-based Pb replacements for Perovskite Solar Cells**](https://github.com/harshana-wijerathne/Single_double_perovskite_Bandgap_predict)
 - **Description**: A model to predict bandgap using machine learning algorithms such as Random Forest, SVM, and XGBoost. I developed a web app with Python Flask for predictions.
 - **Technologies**: Python, Flask, Machine Learning, Random Forest, SVM, XGBoost, MySQL.
 - **Accuracy**: 78% (Highest with GBR Model).
