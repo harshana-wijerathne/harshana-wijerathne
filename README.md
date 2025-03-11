@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in **Softw
 - 📚 Currently learning **React** and **Java**.
 - 💼 I have experience as a **Software Engineering Intership** at IJSE
 - 📱 Owner of **HANA Mobiles** on Facebook, where I sell phone accessories in Sri Lanka.
+- Myp Portfolio [harshanawijerathne.site]
 
 ## 🔧 Technologies & Tools
 
