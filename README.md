@@ -27,6 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in **Softw
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 <p align="left">
+  
   ### Programming Language
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -34,6 +35,7 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in **Softw
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  
   ### Frameworks
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
